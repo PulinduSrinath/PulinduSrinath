@@ -11,8 +11,8 @@
 - 🚀 Excited to work with innovative teams to build impactful applications  
 - 💡 Interests: Coding best practices, new technologies, mobile and web development trends, and software engineering insights  
 - 💬 Ask Me About: Mobile app development, web development, coding best practices, and solving complex programming challenges  
-- 📫 Reach Me: [your.email@example.com](mailto:pulindusrinath1201.com)  
-- 💼 Professional Experience: Check out my [LinkedIn Profile](https://www.linkedin.com/in/pulindu-srinath)  
+- 📫 Reach Me: [pulindusrinath1201@gmail.com](mailto:pulindusrinath1201@gmail.com)  
+- 💼 Professional Experience: Check out my [pulindu-srinath](https://www.linkedin.com/in/pulindu-srinath)  
 - 🎯 Fun Fact: I thrive on cracking tough coding puzzles and deploying polished apps. Check out my apps on the Google Play Store!  
 
 ## 🌐 Connect with me:
